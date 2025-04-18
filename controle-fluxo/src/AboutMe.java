@@ -34,7 +34,7 @@ public class AboutMe{
         //Tratando o erro
         catch(InputMismatchException e){
 
-            System.out.println("O campo de idade deve ser numerico");
+            System.out.println("O campo de idade deve ser numerico!");
 
         }
     }
