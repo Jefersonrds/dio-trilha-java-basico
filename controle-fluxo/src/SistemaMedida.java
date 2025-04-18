@@ -33,6 +33,7 @@ public class SistemaMedida{
                 System.out.println("Tamanho invalido!");
             
         }
+        scanner.close();
 
     }
 }
